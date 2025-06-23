@@ -1,0 +1,40 @@
+# Core Data
+yfinance
+pandas
+numpy
+
+# Indicadores técnicos
+ta
+pandas-ta
+
+# Análise matemática e estatística
+scipy
+
+# Precificação de opções
+quantlib # (opcional, pode usar fórmula manual com scipy)
+
+# Logging e utilitários
+loguru
+python-dotenv
+
+# IA Multi-agente
+langchain
+langgraph
+crewai
+
+# Visualização (opcional para análise ou backtests)
+matplotlib
+plotly
+
+# Web scraping (se for coletar dados diretamente da B3)
+requests
+beautifulsoup4
+
+# Dashboard (para Streamlit futuramente)
+streamlit
+
+# Tipagem, lint e organização
+tqdm
+typing-extensions
+
+openai  # (opcional, se for usar IA da OpenAI)
